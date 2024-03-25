@@ -1,0 +1,14 @@
+<contacts>
+    <contact>
+        <name>John</name>
+        <surname>Doe</surname>
+        <phone>123-456-7890</phone>
+        <email>john.doe@example.com</email>
+    </contact>
+    <contact>
+        <name>Jane</name>
+        <surname>Smith</surname>
+        <phone>098-765-4321</phone>
+        <email>jane.smith@example.com</email>
+    </contact>
+</contacts>
